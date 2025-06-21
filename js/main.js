@@ -51,7 +51,7 @@ const handleShare = function (event) {
 };
 
 function addShareSocialListeners(shareElement) {
-  const solutionUrl = ``;
+  const solutionUrl = `https://www.frontendmentor.io/solutions/responsive-article-preview-component-1Ibx2gX5FP`;
   const shareText = encodeURIComponent(
     `Danijel's Solution for Frontend Mentor Challenge Article Preview Compoennet.
     You can see the solutuon here: `

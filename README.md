@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### 🔗 Links
 
-- 💡 Solution URL: [Article Preview Component Solution URL]()
+- 💡 Solution URL: [Article Preview Component Solution URL](https://www.frontendmentor.io/solutions/responsive-article-preview-component-1Ibx2gX5FP)
 - 🌐 Live Site URL: [Article Preview Component live](https://danijel374.github.io/fem-article-preview-component/)
 
 ---
